@@ -6,6 +6,14 @@
 
 ОС Windows. Не менее 8 ГБ видеопамяти. Python версии не новее 3.9. Microsoft Visual C++ 14.0 или новее. Версия MatPlotLib не новее 1.3.
 
+## Источники
+
+https://github.com/OpenTalker/video-retalking?tab=readme-ov-file
+
+https://github.com/coqui-ai/TTS/tree/dev
+
+https://github.com/KwaiVGI/LivePortrait
+
 ## Инструкция установки и запуска
 
 ```bash
