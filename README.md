@@ -24,3 +24,7 @@ gitclone https://github.com/AKNosov/InteractiveCards.git
 ```
 
 Поместить изображение в файле с названием и расширением 1.jpg, видео в файле с названием и расширением 1.mp4 и аудио в файле с названием и расширением 1.wav в соответсвующие папки в директории input. Запустить сценарий Start.cmd
+
+## Демонастрация работы в виде посекундного сравнения
+
+![alt text](https://github.com/AKNosov/InteractiveCards/blob/main/демонстрация%20работы.jpg)
