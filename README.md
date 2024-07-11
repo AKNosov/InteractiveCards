@@ -30,8 +30,13 @@ gitclone https://github.com/AKNosov/InteractiveCards.git
 ![alt text](https://github.com/AKNosov/InteractiveCards/blob/main/демонстрация%20работы.jpg)
 
 ## Демонастрация готовых видеокарточек
-![video](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--2.mp4)
-![video](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--3.mp4)
-![video](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--4.mp4)
-![video](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--5.mp4)
-![video](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--6.mp4)
+
+![video_1](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--2.mp4)
+
+![video_2](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--3.mp4)
+
+![video_3](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--4.mp4)
+
+![video_4](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--5.mp4)
+
+![video_5](https://github.com/AKNosov/InteractiveCards/blob/main/examples/1--6.mp4)
