@@ -8,11 +8,11 @@
 
 ## Источники
 
-https://github.com/OpenTalker/video-retalking?tab=readme-ov-file
+Липсинк-модель VideoReTalking https://github.com/OpenTalker/video-retalking?tab=readme-ov-file
 
-https://github.com/coqui-ai/TTS/tree/dev
+TTS-модель XTTS https://github.com/coqui-ai/TTS/tree/dev
 
-https://github.com/KwaiVGI/LivePortrait
+Модель анимации изображения LivePortrait https://github.com/KwaiVGI/LivePortrait
 
 ## Инструкция установки и запуска
 
